@@ -1,0 +1,5 @@
+1. 이 폴더의 index.html, monster-ai-simulation.html, monster-ai-engine.js와 assets 폴더를 GitHub 저장소 최상위에 함께 업로드합니다.
+2. Commit changes를 누르면 기존 GitHub Pages 주소에 반영됩니다.
+3. 시뮬레이션 체험 버튼은 새 탭에서 실행됩니다.
+4. HTML, JavaScript, PDF 파일을 같은 구조로 유지해야 합니다.
+5. 문서의 거리·속도·공격력·쿨타임은 시연용 수치입니다.
